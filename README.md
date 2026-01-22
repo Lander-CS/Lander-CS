@@ -3,10 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Landerson+Coelho+Arag%C3%A3o!;Always+evolving+developer...;Creator+of+games+and+interactive+experiences." alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Hello, world! I'm <strong>Lander</strong></h1>
+<h1 align="center">👋 Olá, mundo! Eu sou<strong>Landerson Aragão</strong></h1>
 
 <p align="center">
-🎮 Developer in training | 💡 Creator of interactive experiences | 🔭 Explorer of new technologies
+🎓 Estudante de Gestão da Tecnologia da Informação  
+🔐 Foco em Cybersegurança | Blue Team & Pentest (nível inicial)  
+🖥️ Linux • Redes • Segurança da Informação  
 </p>
 
 <p align="center">
@@ -20,71 +22,66 @@
 
 ---
 
-### 💡 About Me
 
-I'm an **Information Technology Management** student at FADBA and passionate about creating tech experiences that **connect people**, **tell stories**, and **solve problems**.  
-
+###🧠 Sobre mim
+Sou estudante de GTI com interesse em **Cybersegurança**, atualmente focado em entender
+os fundamentos de **redes, sistemas Linux, segurança ofensiva e defensiva**.
 Currently diving into:
 
-- 🕹 **Game Development** focused on narrative and mechanics (GameMaker Studio)
-- 🌐 **Web Development** with an emphasis on accessible and responsive design
-- 📱 **Mobile App Creation** with creative daily-life ideas
-- 🤖 **Robotics & Artificial Intelligence**, integrating physical and digital worlds
-- 📑 **Systems Analysis and UX**, turning ideas into real solutions
+Utilizo este GitHub como **diário técnico**, onde registro estudos, scripts, laboratórios
+e projetos práticos voltados à área de segurança da informação.
 
-💼 Currently, I'm the project leader for the institutional website of **LA DOCERIA**, applying strategic design and usability.
+Meu objetivo é atuar como **Analista de Cybersegurança Júnior**, aprendendo continuamente
+e aplicando boas práticas desde a base.
 
 ---
 
-### 🚀 Technologies I'm Exploring
+
+### 🎯 Áreas de Interesse em Cybersegurança
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+- 🔵 Blue Team (Monitoramento, logs, análise de incidentes)
+- 🔴 Pentest (fundamentos e laboratórios controlados)
+- 🌐 Segurança de Redes
+- 🐧 Linux para segurança
+- 📜 Boas práticas e documentação técnica
 
 </div>
 
 ---
 
-### 🎯 Goals for 2025
-
-- 🚀 Create an original **Tower Defense** with **Brazilian folklore** characters
-- 📲 Launch my **first mobile app** on Google Play
-- 🤖 Integrate a physical robot with **embedded AI**
-- 💻 Go deeper into **back-end** (Node.js, Express, REST APIs)
-
+### 🛠️ Tecnologias & Ferramentas
+**Sistemas Operacionais**
+- Linux (Kali Linux, Ubuntu)
+- Windows (conceitos básicos de segurança)
+**Redes**
+- TCP/IP
+- DNS, HTTP/HTTPS
+- Subnetting (básico)
+**Linguagens**
+- Python (scripts simples)
+- Bash (automação básica)
+- C (fundamentos acadêmicos)
+**Ferramentas de Segurança**
+- Nmap
+- Netcat
+- Wireshark
+- Gobuster (conceitos)
+- Metasploit (nível introdutório)
 ---
 
-### 🔍 A Few Fun Facts About Me
+### 📂 Repositórios em Destaque
+🔹 **cybersecurity-studies**  
+Anotações, resumos e conceitos de segurança explicados com minhas próprias palavras.
 
-- 🎤 I have a [YouTube channel](https://www.youtube.com/@Lander_ZZ) about games 
-- 🥋 I practice **Jiu-Jitsu** and dream of competing professionally
-- 🧠 I'm fascinated by deep narratives, philosophy, and **games as art**
-- 🎓 I love learning and teaching — I believe **knowledge only matters when shared**
+🔹 **scripts-security**  
+Scripts simples em Python e Bash voltados para automação e análise básica.
 
----
+🔹 **networking-for-security**  
+Fundamentos de redes aplicados à segurança da informação.
 
-### 🧙 Status
-💻 Dev Level: 17  
-📚 XP: ██████████░░░░░░░░░ 50%  
-🧠 Class: Knowledge Explorer  
-🎮 Special Skill: Interactive Narrative
-
-<div class="achievements">
-  <h2>🎖️ Achievements</h2>
-  <ul>
-    <li>🧠 <strong>Curious Learner</strong> – Completed 100 hours of hands-on study</li>
-    <li>💻 <strong>First Deploy</strong> – Published your first website</li>
-    <li>🎮 <strong>Mini Dev Game Jam</strong> – Finished a 100% functional game</li>
-    <li>🔥 <strong>Commit Streaker</strong> – 30 consecutive days of commits</li>
-  </ul>
-</div>
+*(Os repositórios são atualizados conforme avanço nos estudos.)*
 
 ---
 
@@ -99,12 +96,12 @@ Currently diving into:
 
 ---
 
-### 🌐 Let's Connect?
+### 🌐 Vamos nos conectar?
 
-- 📧 **Email:** [landersoncoelho72@gmail.com](mailto:landersoncoelho72@gmail.com)  
-- 🌎 **Portfolio (coming soon)**  
-- 🎮 **Itch.io (under construction)**  
-- 🤝 *Open to collaborations, partnerships, wild ideas and challenges!*
+- 📧 **Email:** [aragaolandersonti@gmail.com](mailto:aragaolandersonti@gmail.com)
+- **LinkedIn:** www.linkedin.com/in/landerson-coelho-arag%C3%A3o-96259425a/ 
+- 🌎 **Portfolio (Em brevre)**   
+- 🤝 *Aberto para trabalho!*
 
 ---
 
@@ -112,6 +109,3 @@ Currently diving into:
 <img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+reality...;Technology+with+purpose.;Games+that+connect.;Ever-evolving+developer.&center=true&width=440&height=45" />
 </p>
 
-<p align="center">
-Made with 💻, coffee ☕, and a burning passion to make the world more fun and smart.
-</p>
