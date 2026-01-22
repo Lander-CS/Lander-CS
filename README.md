@@ -1,6 +1,6 @@
 <!--  -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Landerson+Coelho+Arag%C3%A3o!;Always+evolving+developer...;Creator+of+games+and+interactive+experiences." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F716&width=435&lines=Analista+de+Cybersecurity+Jr." alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">👋 Olá, mundo! Eu sou <strong>Landerson Aragão</strong></h1>
