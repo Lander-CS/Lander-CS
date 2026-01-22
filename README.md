@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-([URL_da_Imagem](https://imgur.com/a/b0rTnJH))
+[https://imgur.com/a/b0rTnJH](https://ibb.co/pr9cVXgg)
 </p>
 
 <p align="center">
