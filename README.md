@@ -6,11 +6,7 @@
 <h1 align="center">👋 Olá, mundo! Eu sou <strong>Landerson Aragão</strong></h1>
 
 <p align="center">
-  🎓 Estudante de Gestão da Tecnologia da Informação  
-
-  🔐 Foco em Cybersegurança | Blue Team & Pentest (nível inicial)  
-  
-  🖥️ Linux • Redes • Segurança da Informação  
+  Estudante de Gestão da Tecnologia da Informação | Foco em Cybersegurança | Blue Team & Pentest (nível inicial) | Linux • Redes • Segurança da Informação  
 </p>
 
 <p align="center">
