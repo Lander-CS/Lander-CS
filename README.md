@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/a/b0rTnJH" width="250"/>
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/b0rTnJH" data-context="false" ><a href="//imgur.com/a/b0rTnJH"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </p>
 
 <p align="center">
