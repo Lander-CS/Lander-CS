@@ -79,14 +79,20 @@ e aplicando boas práticas desde a base.
 ---
 
 ### 📂 Repositórios em Destaque
-🔹 **cybersecurity-studies**  
-Anotações, resumos e conceitos de segurança explicados com minhas próprias palavras.
 
-🔹 **scripts-security**  
-Scripts simples em Python e Bash voltados para automação e análise básica.
+🔹 **[cybersecurity-studies](https://github.com/Lander-CS/cybersecurity-studies)**  
+📌 Anotações e resumos sobre fundamentos de segurança da informação (TCP/IP, OWASP, logs e mais).  
+🛠️ Ferramentas: Markdown, exemplos de comandos Linux.  
+📈 O que está praticando: explicações passo a passo de conceitos usados no dia a dia.
 
-🔹 **networking-for-security**  
-Fundamentos de redes aplicados à segurança da informação.
+🔹 **[scripts-security](https://github.com/Lander-CS/scripts-security)**  
+📌 Scripts em Python e Bash para automação básica e análise (ex: checagens de portas, logs).  
+🛠️ Tecnologias: Python, Bash.  
+📘 Objetivo: construir pequenas ferramentas úteis em cenários de Blue Team.
+
+🔹 **[networking-for-security](https://github.com/Lander-CS/networking-for-security)**  
+📌 Fundamentos de redes aplicados à segurança (TCP/IP, DNS, HTTP/HTTPS).  
+📊 Inclui exemplos e demonstrações práticas com comandos e explicações.
 
 *(Os repositórios são atualizados conforme avanço nos estudos.)*
 
