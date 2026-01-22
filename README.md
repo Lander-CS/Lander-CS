@@ -9,8 +9,7 @@
   Estudante de Gestão da Tecnologia da Informação | Foco em Cybersegurança | Blue Team & Pentest (nível inicial) | Linux • Redes • Segurança da Informação  
 </p>
 
-<p align="center">
-<a href="https://ibb.co/yBX0tVY4"><img src="https://i.ibb.co/JFKnVCy3/Design-sem-nome.png" alt="Design-sem-nome" border="0"></a>
+<p align="center"><a href="https://ibb.co/LDVwPZkt"><img src="https://i.ibb.co/gbk17RjT/Capa-de-Linked-In-seguran-a-cibern-tica.png" alt="Capa-de-Linked-In-seguran-a-cibern-tica" border="0"></a>
 
 <p align="center">
   <!-- Profile views badge -->
