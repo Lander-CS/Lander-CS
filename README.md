@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<a href="//imgur.com/a/b0rTnJH"></a>
+![Logo Lander](https://imgur.com/a/b0rTnJH)
 </p>
 
 <p align="center">
