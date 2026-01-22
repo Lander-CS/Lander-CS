@@ -53,14 +53,23 @@ e aplicando boas práticas desde a base.
 **Sistemas Operacionais**
 - Linux (Kali Linux, Ubuntu)
 - Windows (conceitos básicos de segurança)
+
+---
+
 **Redes**
 - TCP/IP
 - DNS, HTTP/HTTPS
 - Subnetting (básico)
+
+---
+
 **Linguagens**
 - Python (scripts simples)
 - Bash (automação básica)
 - C (fundamentos acadêmicos)
+
+---
+
 **Ferramentas de Segurança**
 - Nmap
 - Netcat
