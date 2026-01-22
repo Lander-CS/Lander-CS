@@ -110,7 +110,7 @@ e aplicando boas práticas desde a base.
 ### 🌐 Vamos nos conectar?
 
 - 📧 **Email:** [aragaolandersonti@gmail.com](mailto:aragaolandersonti@gmail.com)
-- **LinkedIn:**www.linkedin.com/in/lander-cybersecurity
+- **LinkedIn:** www.linkedin.com/in/lander-cybersecurity
 - 🌎 **Portfolio (Em breve)**   
 - 🤝 *Aberto para trabalho!*
 
