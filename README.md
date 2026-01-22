@@ -41,11 +41,11 @@ e aplicando boas práticas desde a base.
 
 <div align="center">
 
-- 🔵 Blue Team (Monitoramento, logs, análise de incidentes)
-- 🔴 Pentest (fundamentos e laboratórios controlados)
-- 🌐 Segurança de Redes
-- 🐧 Linux para segurança
-- 📜 Boas práticas e documentação técnica
+  Blue Team (Monitoramento, logs, análise de incidentes)
+  Pentest (fundamentos e laboratórios controlados)
+  Segurança de Redes
+  Linux para segurança
+  Boas práticas e documentação técnica
 
 </div>
 
@@ -100,7 +100,7 @@ Fundamentos de redes aplicados à segurança da informação.
 
 - 📧 **Email:** [aragaolandersonti@gmail.com](mailto:aragaolandersonti@gmail.com)
 - **LinkedIn:** www.linkedin.com/in/landerson-coelho-arag%C3%A3o-96259425a/ 
-- 🌎 **Portfolio (Em brevre)**   
+- 🌎 **Portfolio (Em breve)**   
 - 🤝 *Aberto para trabalho!*
 
 ---
