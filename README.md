@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-<a href="https://ibb.co/pr9cVXgg"><img src="https://i.ibb.co/DgShcKNN/Capa-de-Linked-In-seguran-a-cibern-tica.png" alt="Capa-de-Linked-In-seguran-a-cibern-tica" border="0"></a>
-</p>
+<a href="https://ibb.co/yBX0tVY4"><img src="https://i.ibb.co/JFKnVCy3/Design-sem-nome.png" alt="Design-sem-nome" border="0"></a>
 
 <p align="center">
   <!-- Profile views badge -->
