@@ -23,7 +23,7 @@
 ---
 
 
-###🧠 Sobre mim
+### 🧠 Sobre mim
 Sou estudante de GTI com interesse em **Cybersegurança**, atualmente focado em entender
 os fundamentos de **redes, sistemas Linux, segurança ofensiva e defensiva**.
 Currently diving into:
@@ -39,13 +39,13 @@ e aplicando boas práticas desde a base.
 
 ### 🎯 Áreas de Interesse em Cybersegurança
 
-<div align="center">
+<div>
 
-  Blue Team (Monitoramento, logs, análise de incidentes)
-  Pentest (fundamentos e laboratórios controlados)
-  Segurança de Redes
-  Linux para segurança
-  Boas práticas e documentação técnica
+  - Blue Team (Monitoramento, logs, análise de incidentes)
+  - Pentest (fundamentos e laboratórios controlados)
+  - Segurança de Redes
+  - Linux para segurança
+  - Boas práticas e documentação técnica
 
 </div>
 
