@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-[https://imgur.com/a/b0rTnJH](https://ibb.co/pr9cVXgg)
+<a href="https://ibb.co/pr9cVXgg"><img src="https://i.ibb.co/DgShcKNN/Capa-de-Linked-In-seguran-a-cibern-tica.png" alt="Capa-de-Linked-In-seguran-a-cibern-tica" border="0"></a>
 </p>
 
 <p align="center">
