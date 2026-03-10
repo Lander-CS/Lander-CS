@@ -99,9 +99,7 @@ e aplicando boas práticas desde a base.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonderlan-creator&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonderlan-creator&layout=compact&theme=radical&hide_border=true" />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
