@@ -78,6 +78,6 @@ Meu portfólio profissional, reunindo projetos, experiências e trabalhos em des
 
 ## 📫 Contato
 
-[LinkedIn](SEU_LINKEDIN)
+[LinkedIn]((https://www.linkedin.com/in/landerson-aragao/))
 
 [Portfólio](https://landeraragao.com.br)
