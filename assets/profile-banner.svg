@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Landerson Aragão — Desenvolvedor Full Stack">
+<rect width="1200" height="360" rx="20" fill="#0d0d0f"/>
+<g fill="none" stroke="#242428"><path d="M840 0v360M920 0v360M1000 0v360M1080 0v360M1160 0v360M800 40h400M800 120h400M800 200h400M800 280h400"/></g>
+<rect x="48" y="46" width="224" height="30" rx="15" fill="#202024"/><circle cx="66" cy="61" r="4" fill="#c5f277"/><text x="80" y="66" font-family="Arial,sans-serif" font-size="12" fill="#ededed" letter-spacing="1">DISPONÍVEL PARA PROJETOS</text>
+<text x="48" y="150" font-family="Arial,sans-serif" font-size="60" font-weight="700" fill="#fafafa" letter-spacing="-2">Landerson Aragão<tspan fill="#c5f277">.</tspan></text>
+<text x="51" y="198" font-family="Arial,sans-serif" font-size="24" fill="#c7c7cc">Desenvolvedor Full Stack</text>
+<text x="51" y="246" font-family="Arial,sans-serif" font-size="18" fill="#9999a2">Sites, sistemas e SaaS para resolver problemas reais.</text>
+<path d="M50 286h64" stroke="#c5f277" stroke-width="3"/><text x="130" y="292" font-family="Arial,sans-serif" font-size="15" fill="#ededed" letter-spacing="2">LANDER.CODE</text>
+<g fill="none" stroke="#f5f5f5" stroke-width="5" stroke-linejoin="round"><path d="m944 120-56 60 56 60m108-120 56 60-56 60"/><path d="m1027 102-54 156" stroke="#c5f277"/></g>
+</svg>
